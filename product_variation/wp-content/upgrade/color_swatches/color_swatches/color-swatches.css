@@ -1,0 +1,54 @@
+/* Highlight the selected size in the dropdown */
+.size-selection option.selected {
+    background-color: #ffcc00;
+    color: #000;
+  }
+
+  /* Style for product variation price display */
+.product-variation-price {
+    margin-top: 10px;
+  }
+  
+  .product-variation-price .variation-price {
+    display: none;
+  }
+  
+  .product-variation-price .variation-price.active {
+    display: inline;
+  }
+
+  /* Style for product variation price display */
+.product-variation-price {
+    margin-top: 10px;
+  }
+  
+  .product-variation-price .variation-price {
+    display: none;
+  }
+  
+  .product-variation-price .variation-price.active {
+    display: inline;
+  }
+  
+  /* Mobile Styles */
+  @media only screen and (max-width: 767px) {
+    .color-swatches {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .color-swatches .swatch {
+      margin: 5px;
+    }
+  
+    .size-selection {
+      text-align: center;
+      margin-top: 10px;
+    }
+  
+    .product-variation-price {
+      text-align: center;
+    }
+  }
