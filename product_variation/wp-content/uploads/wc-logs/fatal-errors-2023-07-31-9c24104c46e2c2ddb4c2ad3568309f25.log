@@ -1,0 +1,74 @@
+2023-07-31T19:03:16+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php on line 23
+
+2023-07-31T19:03:17+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php on line 23
+
+2023-07-31T19:03:17+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php on line 23
+
+2023-07-31T19:03:42+00:00 CRITICAL syntax error, unexpected token "?", expecting end of file in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php on line 23
+
+2023-07-31T19:03:43+00:00 CRITICAL syntax error, unexpected token "?", expecting end of file in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php on line 23
+
+2023-07-31T19:03:43+00:00 CRITICAL syntax error, unexpected token "?", expecting end of file in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php on line 23
+
+2023-07-31T19:06:02+00:00 CRITICAL syntax error, unexpected token "?", expecting end of file in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php on line 23
+
+2023-07-31T19:06:04+00:00 CRITICAL syntax error, unexpected token "?", expecting end of file in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php on line 23
+
+2023-07-31T19:06:04+00:00 CRITICAL syntax error, unexpected token "?", expecting end of file in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php on line 23
+
+2023-07-31T19:09:01+00:00 CRITICAL Cannot redeclare color_swatches_display() (previously declared in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php:121) in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php on line 161
+
+2023-07-31T19:09:02+00:00 CRITICAL Cannot redeclare color_swatches_display() (previously declared in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php:121) in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php on line 161
+
+2023-07-31T19:09:02+00:00 CRITICAL Cannot redeclare color_swatches_display() (previously declared in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php:121) in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php on line 161
+
+2023-07-31T19:11:26+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 58
+
+2023-07-31T19:13:04+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 58
+
+2023-07-31T19:14:21+00:00 CRITICAL Cannot redeclare color_swatches_display() (previously declared in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php:121) in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 38
+
+2023-07-31T19:17:44+00:00 CRITICAL Cannot redeclare color_swatches_display() (previously declared in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php:121) in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 38
+
+2023-07-31T19:17:52+00:00 CRITICAL Cannot redeclare color_swatches_display() (previously declared in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php:121) in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 38
+
+2023-07-31T19:18:19+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on string in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php:42
+Stack trace:
+#0 C:\wamp64\www\product_variation\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\product_variation\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\p...')
+#2 C:\wamp64\www\product_variation\index.php(17): require('C:\\wamp64\\www\\p...')
+#3 {main}
+  thrown in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 42
+
+2023-07-31T19:19:24+00:00 CRITICAL syntax error, unexpected token "/", expecting end of file in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 38
+
+2023-07-31T19:19:39+00:00 CRITICAL Cannot redeclare color_swatches_display() (previously declared in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php:121) in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 38
+
+2023-07-31T19:20:41+00:00 CRITICAL Cannot redeclare color_swatches_display() (previously declared in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php:121) in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 38
+
+2023-07-31T19:20:58+00:00 CRITICAL Cannot redeclare color_swatches_display() (previously declared in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php:121) in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 38
+
+2023-07-31T19:23:31+00:00 CRITICAL Cannot redeclare color_swatches_display() (previously declared in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php:121) in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 39
+
+2023-07-31T19:49:59+00:00 CRITICAL Cannot redeclare color_swatches_display() (previously declared in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php:121) in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 38
+
+2023-07-31T19:52:56+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 84
+
+2023-07-31T19:53:13+00:00 CRITICAL Cannot redeclare color_swatches_display() (previously declared in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php:121) in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 38
+
+2023-07-31T19:54:17+00:00 CRITICAL Cannot redeclare size_selection_dropdown() (previously declared in C:\wamp64\www\product_variation\wp-content\plugins\colorswatches\color_swatches.php:38) in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 38
+
+2023-07-31T19:54:41+00:00 CRITICAL Cannot redeclare size_selection_dropdown() (previously declared in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php:39) in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 64
+
+2023-07-31T19:55:36+00:00 CRITICAL Cannot redeclare size_selection_dropdown() (previously declared in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php:39) in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 64
+
+2023-07-31T19:55:53+00:00 CRITICAL Cannot redeclare size_selection_dropdown() (previously declared in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php:39) in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 64
+
+2023-07-31T19:56:30+00:00 CRITICAL Cannot redeclare size_selection_dropdown() (previously declared in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php:39) in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 64
+
+2023-07-31T19:59:56+00:00 CRITICAL Unmatched '}' in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 116
+
+2023-07-31T20:00:29+00:00 CRITICAL Unmatched '}' in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 116
+
+2023-07-31T20:00:34+00:00 CRITICAL Unmatched '}' in C:\wamp64\www\product_variation\wp-content\themes\clothing-store\woocommerce\single-product.php on line 116
+
